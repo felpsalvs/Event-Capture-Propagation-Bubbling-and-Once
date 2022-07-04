@@ -1,10 +1,12 @@
-# Event-Capture--Propagation--Bubbling-and-Once
+# Event-Capture-Propagation-Bubbling-and-Once
+![image](https://user-images.githubusercontent.com/78622458/177125470-1a0b16f4-4182-4f0d-bf57-10fd27155372.png)
+
 ### 🔖 Sobre
 Uma pequena function é capaz de fazer essa alteração na navegação, deixando-a mais fluída e otimizada.
 <br/>
-Veja aqui: https://felpsalvs.github.io/navegacao-fixa/
+Veja aqui: 
 <br/>
-24/30 <br/>
+25/30 <br/>
 https://JavaScript30.com 
 
 ### 🚀 Tecnologias
